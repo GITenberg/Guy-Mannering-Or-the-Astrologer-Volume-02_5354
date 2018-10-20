@@ -1,5 +1,5 @@
 _repo: Guy-Mannering-Or-the-Astrologer-Volume-02_5354
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -37,5 +37,6 @@ subjects:
 - !lcsh 'Astrologers -- Fiction'
 - !lcsh 'Disinheritance -- Fiction'
 - !lcsh 'Inheritance and succession -- Fiction'
+- GITenberg
 title: Guy Mannering, Or, the Astrologer — Volume 02
 url: http://www.gutenberg.org/ebooks/5354
